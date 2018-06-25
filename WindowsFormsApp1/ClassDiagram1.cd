@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="ComputerSalesWinForm.clsBrand">
+    <Position X="7" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQABAAAAAAA=</HashCode>
+      <FileName>ClientDTO.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="ComputerList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ComputerSalesWinForm.clsAllComputers">
+    <Position X="4.5" Y="3" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAQAASAAEAACAACQCCAAAACBAAQAAgAAAAAA=</HashCode>
+      <FileName>ClientDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesWinForm.clsOrder" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABABAAAAAgBBAAAAAAAAQAAQAAAAAAAAAAABEAA=</HashCode>
+      <FileName>ClientDTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesWinForm.frmBrand" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQkkAAAACAAKAAAAAGAAIECAACAgBBAAQABBQABBwc=</HashCode>
+      <FileName>frmBrand.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesWinForm.frmComputer" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAUMEAQTAACAsEAACAAGAiAAAIAAAAAAAAAAAQRCQ=</HashCode>
+      <FileName>frmComputer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesWinForm.frmComputerDecision" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAQAAAACAAAAkAQACAAFACAIAAAAAAAAACAgAQAAA=</HashCode>
+      <FileName>frmComputerDecision.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesWinForm.frmDesktop" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAEAACAAAAAAAAGAAAACAAQAAAAAQAAAAAAABAI=</HashCode>
+      <FileName>frmDesktop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesWinForm.frmLaptop" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAIEARTAAABIEAEGAAAAyAAAIABAAQAAAQIAQRCY=</HashCode>
+      <FileName>frmLaptop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesWinForm.frmMain" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAWAAAAAAAECEAEACAAgAAAgAQABBAAAAgAA=</HashCode>
+      <FileName>frmMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesWinForm.Program" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesWinForm.ServiceClient">
+    <Position X="0.5" Y="2" Width="6.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAgACAAAAAACAAAAAAAAAAAAIIAAAEAAAA=</HashCode>
+      <FileName>ServiceClient.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesWinform.frmOrderDetails" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAEAAAACAAABAAAACAhAFzAQAIWAgAQIABAAAYAAI=</HashCode>
+      <FileName>frmOrderDetails.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesWinform.frmOrderList" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAoBAAAACAAMACAEAAAABAAAABAAIAAQQ=</HashCode>
+      <FileName>frmOrderList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesWinForm.Properties.Resources" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesWinForm.Properties.Settings" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

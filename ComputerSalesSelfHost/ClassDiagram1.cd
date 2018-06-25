@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ComputerSalesSelfHost.clsDbConnectioncs">
+    <Position X="8.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAAAQABAAAAEAAAAAAAIAAAAAAAAAAgAA=</HashCode>
+      <FileName>clsDbConnectioncs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesSelfHost.ComputerSalesController">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQQBAABAABAAAAAABAAAAEBAAAAAgEAAAAAEQACA=</HashCode>
+      <FileName>ComputerSalesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesSelfHost.clsBrand">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAQABAAAAAAA=</HashCode>
+      <FileName>DTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesSelfHost.clsAllComputers">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAQAASAAEAAAAAAQCCAAAACBAAQAAgAAAAAA=</HashCode>
+      <FileName>DTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesSelfHost.clsOrder">
+    <Position X="4" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAABABAAAAAgBFAAAAAAAAQAAQAAAAAAAAAAABEAA=</HashCode>
+      <FileName>DTO.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ComputerSalesSelfHost.Program">
+    <Position X="7" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="System.Object">
+    <Position X="6.25" Y="0.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
